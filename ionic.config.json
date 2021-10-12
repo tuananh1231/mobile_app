@@ -1,0 +1,7 @@
+{
+  "name": "rentalZ",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
