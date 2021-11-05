@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "rentalZ",
+	"webDir": "build",
+	"bundledWebRuntime": false
+}
